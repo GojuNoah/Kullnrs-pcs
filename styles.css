@@ -13,4 +13,11 @@ body {
     top: 0;
     background-color: #0F4C75;
     color: #BBE1FA;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.links {
+    width: 50%;
+    text-align: right;
 }
