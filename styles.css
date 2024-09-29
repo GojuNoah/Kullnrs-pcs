@@ -35,3 +35,15 @@ body {
     font-size: 3em;
     margin: .75em;
 }
+main {
+    color: #1B262C;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 600px;
+}
+.card {
+    width: 50%;
+    height: 80%;
+    background-color: #BBE1FA;
+    margin: 20%;
+}
